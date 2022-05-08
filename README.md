@@ -1,1 +1,3 @@
-# md meaning mardkdown text yazmak istedigimizde bunu kullaniriz
+# study purpose
+
+md meaning mardkdown text yazmak istedigimizde bunu kullaniriz
